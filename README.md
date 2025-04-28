@@ -1,7 +1,7 @@
 <h1 align="center">👾 Caio Henrique 「Skdevr」</h1>
 
 <p align="center">
-  <img src="https://media.tenor.com/U18CZZz_lKoAAAAd/anime-hacker.gif" width="250"/>
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="250"/>
 </p>
 
 <p align="center">
@@ -25,9 +25,9 @@
 ### 👩‍💻 Mood atual
 
 <p align="center">
-  <img src="https://media.tenor.com/HcCqCl_M2skAAAAC/lucy-cyberpunk.gif" width="220"/>
-  <img src="https://media.tenor.com/vbZSu2BZqAsAAAAC/orihime-bleach.gif" width="220"/>
-  <img src="https://media.tenor.com/3X9ya2AkS6EAAAAC/bleach-nemu.gif" width="220"/>
+  <img src="https://media.tenor.com/o2kG0fEDLQMAAAAC/lucy-cyberpunk.gif" width="200"/>
+  <img src="https://64.media.tumblr.com/f2c81e0a1859d21f053b548e2e90aa0f/tumblr_p2yg4z5rRX1td74edo1_500.gif" width="200"/>
+  <img src="https://64.media.tumblr.com/1515ffb9222f9de0343da1557e3e517a/tumblr_pje0i7GgOm1wsyb14o1_400.gif" width="200"/>
 </p>
 
 ---
@@ -43,6 +43,12 @@
 ---
 
 ### 🎮 Skills RPG-style
+
+🐍 Python: ██████████░░ (80%)
+☕ Java: ███████░░░░░░ (60%)
+🧩 C/C++: ██████░░░░░░ (50%)
+🌐 HTML/CSS: ██████░░░░░░ (50%)
+🛡️ Cibersegurança: █████░░░░░░ (40%)
 
 
 ---
@@ -64,6 +70,7 @@
 - 🧙‍♂️ Em algum canto do VS Code, conjurando feitiços em Python...
 
 <p align="center">
-  <img src="https://media.tenor.com/BJ1YqR_QaA0AAAAC/hacker-anime.gif" width="250"/>
+  <img src="https://media.tenor.com/Lq3UOQ1n6hMAAAAd/hacker-anime.gif" width="250"/>
 </p>
+
 
