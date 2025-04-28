@@ -25,7 +25,7 @@
 ### 👩‍💻 Mood atual
 
 <p align="center">
-  <img src="https://tenor.com/pt-BR/view/meowzzzz-gif-26747325" width="200"/>
+  <img src="https://tenor.com/pt-BR/view/meowzzzz-gif-26747325" width="800"/>
   <img src="https://64.media.tumblr.com/f2c81e0a1859d21f053b548e2e90aa0f/tumblr_p2yg4z5rRX1td74edo1_500.gif" width="200"/>
   <img src="https://64.media.tumblr.com/1515ffb9222f9de0343da1557e3e517a/tumblr_pje0i7GgOm1wsyb14o1_400.gif" width="200"/>
 </p>
