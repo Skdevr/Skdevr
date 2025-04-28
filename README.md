@@ -1,6 +1,7 @@
 <h1 align="center">👾 Caio Henrique 「Skdevr」</h1>
+
 <p align="center">
-  <img src="https://media.tenor.com/BJ1YqR_QaA0AAAAC/hacker-anime.gif" width="220"/>
+  <img src="https://media.tenor.com/U18CZZz_lKoAAAAd/anime-hacker.gif" width="250"/>
 </p>
 
 <p align="center">
@@ -21,6 +22,16 @@
 
 ---
 
+### 👩‍💻 Mood atual
+
+<p align="center">
+  <img src="https://media.tenor.com/HcCqCl_M2skAAAAC/lucy-cyberpunk.gif" width="220"/>
+  <img src="https://media.tenor.com/vbZSu2BZqAsAAAAC/orihime-bleach.gif" width="220"/>
+  <img src="https://media.tenor.com/3X9ya2AkS6EAAAAC/bleach-nemu.gif" width="220"/>
+</p>
+
+---
+
 ### 📦 Minhas Skills
 
 - 🐍 **Python**: automação, back-end e scripts para segurança
@@ -31,7 +42,12 @@
 
 ---
 
-### 🧪 Projetos em treino
+### 🎮 Skills RPG-style
+
+
+---
+
+### 📚 Projetos em treino
 
 | Projeto                        | Linguagem | Status    |
 |-------------------------------|-----------|-----------|
@@ -48,5 +64,6 @@
 - 🧙‍♂️ Em algum canto do VS Code, conjurando feitiços em Python...
 
 <p align="center">
-  <img src="https://media.tenor.com/U18CZZz_lKoAAAAd/anime-hacker.gif" width="250"/>
+  <img src="https://media.tenor.com/BJ1YqR_QaA0AAAAC/hacker-anime.gif" width="250"/>
 </p>
+
