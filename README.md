@@ -26,8 +26,8 @@
 
 <p align="center">
   <img src="https://media1.giphy.com/media/Ozf4qM5aX1qUqwtmFF/giphy.gif?cid=6c09b952b7vqud73013e6qbny4rptyj1jyllhh44xkfi27hv&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="200"/>
-  <img src="https://64.media.tumblr.com/f2c81e0a1859d21f053b548e2e90aa0f/tumblr_p2yg4z5rRX1td74edo1_500.gif" width="200"/>
-  <img src="https://64.media.tumblr.com/1515ffb9222f9de0343da1557e3e517a/tumblr_pje0i7GgOm1wsyb14o1_400.gif" width="200"/>
+  <img src="https://i.gifer.com/71e.gif" width="200"/>
+  <img src="https://media0.giphy.com/media/5rUIF3sDbQdO/giphy.gif?cid=6c09b952wupbi1vgv2tzfy6fzj08i0wc1ch9vkm13aefrqbl&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="200"/>
 </p>
 
 ---
