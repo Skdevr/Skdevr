@@ -26,7 +26,9 @@
 
 <p align="center">
   <img src="https://media1.giphy.com/media/Ozf4qM5aX1qUqwtmFF/giphy.gif?cid=6c09b952b7vqud73013e6qbny4rptyj1jyllhh44xkfi27hv&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="200"/>
+  
   <img src="https://i.gifer.com/71e.gif" width="200"/>
+  
   <img src="https://media0.giphy.com/media/5rUIF3sDbQdO/giphy.gif?cid=6c09b952wupbi1vgv2tzfy6fzj08i0wc1ch9vkm13aefrqbl&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="200"/>
 </p>
 
@@ -59,7 +61,6 @@
 
 ---
 
-### 📚 Projetos em treino  **Legenda dos Status**  
   ### 📁 Projetos
 
 | Projetos                          | Linguagem     | Status                        |
