@@ -24,7 +24,9 @@
 
 ### 👩‍💻 Mood atual
 
-<div style="display: flex; align-items: center; gap: 10px; margin-bottom: 15px;">
+<div 
+      <strong>💜 Lucy (Cyberpunk: Edgerunners)</strong><br>
+    <em>“Mesmo se o mundo for cruel, ainda posso sonhar com as estrelas.”</em> style="display: flex; align-items: center; gap: 10px; margin-bottom: 15px;">
   <img src="https://media1.giphy.com/media/Ozf4qM5aX1qUqwtmFF/giphy.gif?cid=6c09b952b7vqud73013e6qbny4rptyj1jyllhh44xkfi27hv&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="200" />
   <div>
     <strong>💜 Lucy (Cyberpunk: Edgerunners)</strong><br>
