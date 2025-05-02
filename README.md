@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-  <img src="https://giphy.com/gifs/Edgerunners-smoking-lucy-cyberpunk-edgerunners-4dYz4Vils2Ugvrxdsm" width="400"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWFxNmloeGt1dHFhYjVpNDdiaHZkdDBieGY1ZzExdXZiOWV3OWcxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4dYz4Vils2Ugvrxdsm/giphy.gif" width="400"/>
 </p>
 
 ---
