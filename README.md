@@ -47,7 +47,6 @@
     <em>“A música pode não mudar o passado, mas pode tocar o coração de quem ainda vive.”</em>
   </span>
 </div>
-
 ---
 
 ### 📦 Minhas Skills
