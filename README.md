@@ -28,13 +28,9 @@
 *“Mesmo se o mundo for cruel, ainda posso sonhar com as estrelas.”*  
 <img src="https://media1.giphy.com/media/Ozf4qM5aX1qUqwtmFF/giphy.gif?cid=6c09b952b7vqud73013e6qbny4rptyj1jyllhh44xkfi27hv&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="200" />
 
----
-
 **🍓 Orihime Inoue (Bleach)**  
 *“A força mais bonita é aquela que protege sem ferir.”*  
 <img src="https://i.gifer.com/71e.gif" width="200" />
-
----
 
 **🎻 Kaori Miyazono (Shigatsu wa Kimi no Uso)**  
 *“A música pode não mudar o passado, mas pode tocar o coração de quem ainda vive.”*  
