@@ -50,7 +50,7 @@
 
 **🎻 Kaori Miyazono (Shigatsu wa Kimi no Uso)**  
 *“A música pode não mudar o passado, mas pode tocar o coração de quem ainda vive.”*  
-<img src="https://media0.giphy.com/media/5rUIF3sDbQdO/giphy.gif?cid=6c09b952wupbi1vgv2tzfy6fzj08i0wc1ch9vkm13aefrqbl&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="200" />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWFxNmloeGt1dHFhYjVpNDdiaHZkdDBieGY1ZzExdXZiOWV3OWcxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4dYz4Vils2Ugvrxdsm/giphy.gif" width="200" />
 
 ---
 
