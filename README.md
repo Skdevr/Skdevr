@@ -24,17 +24,7 @@
 
 ### 🌆 GitHub Insights — Tokyo Night Edition
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=skdevr&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skdevr&layout=compact&theme=tokyonight&hide_border=true" />
-  <br>
-  <img src="https://streak-stats.demolab.com?user=skdevr&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://64.media.tumblr.com/f7a73d6bfa00cdb50c1aab9a6db06c34/tumblr_p7v8g7Dzz11wqfvrto1_500.gifv" width="400"/>
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" /> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" /> <br> <img src="https://streak-stats.demolab.com?user=seu-usuario&theme=tokyonight&hide_border=true&locale=pt-br" alt="Contribuições contínuas" /> </p> <p align="center"> <img src="https://64.media.tumblr.com/f7a73d6bfa00cdb50c1aab9a6db06c34/tumblr_p7v8g7Dzz11wqfvrto1_500.gifv" width="400"/> </p>
 
 ---
 
