@@ -29,12 +29,12 @@
   </br>
   </p>
 
-  <p align="right">
+  <p align="left">
   <img src="https://i.gifer.com/71e.gif" width="200"/>  <br>
   </br>
   </p>
   
-   <p align="center">
+   <p align="left">
   <img src="https://media0.giphy.com/media/5rUIF3sDbQdO/giphy.gif?cid=6c09b952wupbi1vgv2tzfy6fzj08i0wc1ch9vkm13aefrqbl&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="200"/>  <br>
   </br>
 </p>
