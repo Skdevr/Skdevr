@@ -48,24 +48,17 @@
 
 ---
 
-
 ### 🎮 Skills
 
 🐍 **Python**: ███████░░░░ (65%)  
-
 ☕ **Java**: █████░░░░░░ (30%)  
-
 🧩 **C/C++**: ███░░░░░░░░ (25%)  
-
 🌐 **HTML/CSS**: █████░░░░░░ (40%)  
-
 🛡️ **Cibersegurança**: ████░░░░░░ (35%)  
-
-
 
 ---
 
-  ### 📁 Projetos
+### 📁 Projetos
 
 | Projetos                          | Linguagem     | Status                        |
 |----------------------------------|---------------|-------------------------------|
@@ -73,7 +66,6 @@
 | 💊 Gerenciador de Saúde          | Python        | 🧱 Em planejamento            |
 | 🛡️ Scripts de Pentest            | Python        | ⚔️ Estudo                     |
 | 📚 Estruturas de Dados em C      | C             | 📖 Estudo                     |
-
 
 ---
 
@@ -87,4 +79,14 @@
   <img src="https://media.tenor.com/Lq3UOQ1n6hMAAAAd/hacker-anime.gif" width="250"/>
 </p>
 
+---
 
+### 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=skdevr&show_icons=true&theme=tokyonight" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skdevr&layout=compact&theme=tokyonight" />
+  <br><br>
+  <img src="https://streak-stats.demolab.com?user=skdevr&theme=tokyonight" />
+</p>
