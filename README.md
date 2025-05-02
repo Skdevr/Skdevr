@@ -22,6 +22,22 @@
 
 ---
 
+### 🌆 GitHub Insights — Tokyo Night Edition
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=skdevr&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skdevr&layout=compact&theme=tokyonight&hide_border=true" />
+  <br>
+  <img src="https://streak-stats.demolab.com?user=skdevr&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://64.media.tumblr.com/f7a73d6bfa00cdb50c1aab9a6db06c34/tumblr_p7v8g7Dzz11wqfvrto1_500.gifv" width="400"/>
+</p>
+
+---
+
 ### 👩‍💻 Mood atual
 
 **💜 Lucy (Cyberpunk: Edgerunners)**  
@@ -48,7 +64,7 @@
 
 ---
 
-### 🎮 Skills
+### 🎮 Skills (nível pessoal estimado)
 
 🐍 **Python**: ███████░░░░ (65%)  
 ☕ **Java**: █████░░░░░░ (30%)  
@@ -77,16 +93,4 @@
 
 <p align="center">
   <img src="https://media.tenor.com/Lq3UOQ1n6hMAAAAd/hacker-anime.gif" width="250"/>
-</p>
-
----
-
-### 📊 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=skdevr&show_icons=true&theme=tokyonight" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skdevr&layout=compact&theme=tokyonight" />
-  <br><br>
-  <img src="https://streak-stats.demolab.com?user=skdevr&theme=tokyonight" />
 </p>
