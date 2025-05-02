@@ -26,25 +26,25 @@
 
 <div style="display: flex; align-items: center;">
   <img src="https://media1.giphy.com/media/Ozf4qM5aX1qUqwtmFF/giphy.gif?cid=6c09b952b7vqud73013e6qbny4rptyj1jyllhh44xkfi27hv&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="200"/>
-  <span style="margin-left: 10px; text-align: left;">
-    <strong>💜 Lucy (Cyberpunk: Edgerunners)<br>
-    “Mesmo se o mundo for cruel, ainda posso sonhar com as estrelas.”</strong>
+  <span style="margin-left: 10px; text-align: left; display: inline-block;">
+    <strong>💜 Lucy (Cyberpunk: Edgerunners)</strong><br>
+    <em>“Mesmo se o mundo for cruel, ainda posso sonhar com as estrelas.”</em>
   </span>
 </div>
 
 <div style="display: flex; align-items: center;">
   <img src="https://i.gifer.com/71e.gif" width="200"/>
-  <span style="margin-left: 10px; text-align: left;">
-    <strong>🍓 Orihime Inoue (Bleach)<br>
-    “A força mais bonita é aquela que protege sem ferir.”</strong>
+  <span style="margin-left: 10px; text-align: left; display: inline-block;">
+    <strong>🍓 Orihime Inoue (Bleach)</strong><br>
+    <em>“A força mais bonita é aquela que protege sem ferir.”</em>
   </span>
 </div>
 
 <div style="display: flex; align-items: center;">
   <img src="https://media0.giphy.com/media/5rUIF3sDbQdO/giphy.gif?cid=6c09b952wupbi1vgv2tzfy6fzj08i0wc1ch9vkm13aefrqbl&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="200"/>
-  <span style="margin-left: 10px; text-align: left;">
-    <strong>🎻 Kaori Miyazono (Shigatsu wa Kimi no Uso)<br>
-    “A música pode não mudar o passado, mas pode tocar o coração de quem ainda vive.”</strong>
+  <span style="margin-left: 10px; text-align: left; display: inline-block;">
+    <strong>🎻 Kaori Miyazono (Shigatsu wa Kimi no Uso)</strong><br>
+    <em>“A música pode não mudar o passado, mas pode tocar o coração de quem ainda vive.”</em>
   </span>
 </div>
 
