@@ -59,13 +59,16 @@
 
 ---
 
-### 📚 Projetos em treino
+### 📚 Projetos em treino  **Legenda dos Status**  
+  ### 📁 Projetos
 
-| Projeto                        | Linguagem | Status    |
-|-------------------------------|-----------|-----------|
-| 💊 Gerenciador de Saúde       | Python    | 🛠️ MVP     |
-| 🛡️ Scripts de Pentest         | Python    | ⚔️ Beta     |
-| 📚 Estruturas de Dados em C   | C         | 📖 Estudo   |
+| Projetos                          | Linguagem     | Status                        |
+|----------------------------------|---------------|-------------------------------|
+| 📖 Gerenciador de Novels/Mangás  | Python/Django | 🔧 Em planejamento de MVP     |
+| 💊 Gerenciador de Saúde          | Python        | 🧱 Em planejamento            |
+| 🛡️ Scripts de Pentest            | Python        | ⚔️ Estudo                     |
+| 📚 Estruturas de Dados em C      | C             | 📖 Estudo                     |
+
 
 ---
 
