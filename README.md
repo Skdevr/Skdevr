@@ -27,8 +27,9 @@
 <div style="display: flex; align-items: center;">
   <img src="https://media1.giphy.com/media/Ozf4qM5aX1qUqwtmFF/giphy.gif?cid=6c09b952b7vqud73013e6qbny4rptyj1jyllhh44xkfi27hv&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="200"/>
   <span style="margin-left: 10px; text-align: left;">
-    <strong>💜 Lucy (Cyberpunk: Edgerunners)</strong><br>
+    <strong>💜 Lucy (Cyberpunk: Edgerunners)
     “Mesmo se o mundo for cruel, ainda posso sonhar com as estrelas.”
+      </strong><br>
   </span>
 </div>
 
