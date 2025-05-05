@@ -87,7 +87,7 @@
 
 ### 📫 Onde me encontrar
 
-- [LinkedIn](https://www.linkedin.com/in/seu-usuario](https://www.linkedin.com/in/caio-henrique-291a04233/))  
+- [LinkedIn](https://www.linkedin.com/in/seu-usuario](https://www.linkedin.com/in/caio-henrique-291a04233/))
 - 📧 Skdevr@proton.me 
 - 🧙‍♂️ Em algum canto do VS Code, conjurando feitiços em Python...
 
