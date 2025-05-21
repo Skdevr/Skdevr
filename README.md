@@ -79,6 +79,7 @@
 | Projetos                          | Linguagem     | Status                        |
 |----------------------------------|---------------|-------------------------------|
 | 📖 Gerenciador de Novels/Mangás  | Python/Django | 🔧 Em preparação para MVP     |
+| 🤖 Chatbot Imobiliária           | Python        | 🔧 Em preparação para MVP     |
 | 💊 Gerenciador de Saúde          | Python        | 🧱 Em planejamento            |
 | 🛡️ Scripts de Pentest            | Python        | ⚔️ Estudo                     |
 | 📚 Estruturas de Dados em C      | C             | 📖 Estudo                     |
