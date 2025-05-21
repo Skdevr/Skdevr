@@ -29,7 +29,7 @@
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skdevr&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" />
   <br><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Skdevr&theme=tokyonight&hide_border=true&locale=pt-br" alt="Contribuições contínuas" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Skdevr&theme=tokyonight&hide_border=true&locale=pt-br" />
 </p>
 
 <p align="center">
