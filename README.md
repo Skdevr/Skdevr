@@ -1,4 +1,4 @@
-<h1 align="center">👾 Caio Henrique 「Skdevr」</h1>
+<h1 align="center">👾 Kanae 「Skdevr」</h1>
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWd4bng1MTFtMmtoNjc1ZWgwejI0ZW9oMnZ5YW9ua293Nmpxam11OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QU7IFSUto0kIV0l5H8/giphy.gif" width="250"/>
